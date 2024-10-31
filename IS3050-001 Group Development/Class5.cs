@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IS3050_001_Group_Development
 {
-    internal class happyHalloween
+    internal class Class5
     {
     }
 }
